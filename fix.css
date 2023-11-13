@@ -1,18 +1,24 @@
 h1 {
     min-height: 3.1rem;
+    padding-bottom: 1%;
 }
 h2 {
     min-height: 2.46875rem;
+    padding-bottom: 1%;
 }
 h3 {
     min-height: 2.15625rem;
+    padding-bottom: 1%;
 }
 h4 {
     min-height: 1.84375rem;
+    padding-bottom: 1%;
 }
 h5 {
     min-height: 1.53125rem;
+    padding-bottom: 1%;
 }
 h6 {
     min-height: 1.21875rem;
+    padding-bottom: 1%;
 }
